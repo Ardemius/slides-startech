@@ -1,0 +1,2 @@
+= StarTECH presentation slides
+Contains the slides to make known the StarTECHs

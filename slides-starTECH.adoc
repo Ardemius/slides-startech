@@ -1,0 +1,62 @@
+= Softeam Cadextan StarTECH
+:imagesdir: images
+:icons: font
+
+Mais c'est quoi les StarTECH ?!?
+
+== Les StarTECH sont les groupes de passionnés de Softeam Cadextan !
+
+== Nos valeurs
+
+[%step]
+* Curiosité
+* Enthousiasme
+* Coopération
+
+== Nos devises
+
+[%step]
+* Learn, Unlearn, Relearn
+* Adapt, Improve, Overcome
+* Assume nothing, Question everything, Never stop improving
+
+== Les objectifs des StarTECH
+
+[%step]
+* Echanger sur notre passion : *LA TECHNIQUE*
+* Nous former en continu
+* Partager nos connaissances
+
+Et pour ce faire...
+
+=== Veille technologique
+
+Nous nous réunissons régulièrement afin de discuter de l'actualité, et des dernières nouveautés techniques.
+
+=== Débats techniques
+
+Nous aimons confronter nos idées, retours d'expérience, problèmes, sur des points techniques précis (systèmes de gestion du cache, choix du worflow Git, etc.).
+
+=== Formations
+
+Le meilleur moyen de s'assurer que l'on maîtrise bien un sujet, est d'être capable de bien l'expliquer ! +
+Et pour ce faire, nous créons et présentons régulièrement des formations (Agile, TDD, DevOps, Git, Java, etc.) aux autres Softeamiens icon:smile-o[]
+
+=== Présence en conférences, salons, MeetUps
+
+Devoxx, Paris JUG, Big Data Paris... +
+Pour suivre les dernières tendances et nouveautés, le mieux est parfois tout simplement d'écouter ceux qui les créent ! +
+Et si cela peut se terminer devant un petit pot, c'est encore mieux icon:beer[]
+
+== Nos emblèmes
+
+image::Star-Tech-Java-logo_fond-transparent.png[width=300]
+
+image::Star-Tech-logo_crew_Adapt-tagline.png[width=100]
+
+image::Star-Tech-logo_crew_Learn-tagline.png[width=100, title=toto]
+
+image::Star-Tech-logo_crew.png[width=100]
+
+image::tagline-text-badge_silver_white-text.png[]
+
