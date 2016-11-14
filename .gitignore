@@ -1,2 +1,3 @@
-# ignore Bundler folder
+# ignore Bundler / JRuby files
 .bundle
+Gemfile.lock

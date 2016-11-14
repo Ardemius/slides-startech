@@ -31,7 +31,7 @@ Et pour ce faire...
 
 === Veille technologique
 
-Nous nous réunissons régulièrement afin de discuter de l'actualité, et des dernières nouveautés techniques.
+Nous nous [RED]*réunissons régulièrement* afin de discuter de l'actualité, et des dernières nouveautés techniques.
 
 === Débats techniques
 
@@ -44,19 +44,15 @@ Et pour ce faire, nous créons et présentons régulièrement des formations (Ag
 
 === Présence en conférences, salons, MeetUps
 
-Devoxx, Paris JUG, Big Data Paris... +
-Pour suivre les dernières tendances et nouveautés, le mieux est parfois tout simplement d'écouter ceux qui les créent ! +
+Devoxx, Paris JUG, ng-europe, Big Data Paris... +
+Pour suivre les dernières tendances et nouveautés, le mieux est souvent d'écouter ceux qui les créent ! +
 Et si cela peut se terminer devant un petit pot, c'est encore mieux icon:beer[]
 
 == Nos emblèmes
 
-image::Star-Tech-Java-logo_fond-transparent.png[width=300]
-
-image::Star-Tech-logo_crew_Adapt-tagline.png[width=100]
-
-image::Star-Tech-logo_crew_Learn-tagline.png[width=100, title=toto]
-
-image::Star-Tech-logo_crew.png[width=100]
-
-image::tagline-text-badge_silver_white-text.png[]
+image:StarTECH-Java-logo_crew.png[width=100,float="left"]
+image:StarTECH-Java-logo_crew_Adapt-tagline.png[width=100,float="left"]
+image:StarTECH-Java-logo_crew_Learn-tagline.png[width=100,float="left"]
+image:StarTECH-Java-logo_transparent-background.png[width=100,float="left"]
+image:StarTECH-Java-tagline-text-badge_silver-white-text.png[width=100,float="left"]
 
