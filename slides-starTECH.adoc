@@ -1,24 +1,35 @@
-= Softeam Cadextan StarTECH
-:imagesdir: images
+= Softeam Cadextan StarTECH Java
+// classic AsciiDoctor attributes
 :icons: font
+:imagesdir: images
+// Despite the warning of the documentation, https://github.com/asciidoctor/asciidoctor-reveal.js, highlight.js syntax highlighting WORKS, BUT, you need to explicitly set the highlighter using the below attribute
+// see http://discuss.asciidoctor.org/Highlighting-source-code-for-reveal-js-backend-td2750.html
+:source-highlighter: highlightjs
+// reveal.js attributes
+:customcss: styles/myCustomCSS.css
 
-Mais c'est quoi les StarTECH ?!?
+Mais c'est quoi le *StarTECH Java* ?!?
 
-== Les StarTECH sont les groupes de passionnés de Softeam Cadextan !
+== Le StarTECH Java sont les groupes de *passionnés* de Softeam Cadextan !
 
-== Nos valeurs
+== Les valeurs du StarTECH Java
 
 [%step]
-* Curiosité
-* Enthousiasme
-* Coopération
+* *Curiosité*
+* *Enthousiasme*
+* *Coopération*
+
+// we use passthrough block to use native reveal.sj fragment class, out of list component, because not currently supported by asciidoctor-revealjs
+++++
+<p class="fragment">Pour les intéressés, voici le <a href="https://fr.surveymonkey.com/results/SM-2QCZXWVC/">sondage</a> associé.</p>
+++++
 
 == Nos devises
 
 [%step]
-* Learn, Unlearn, Relearn
-* Adapt, Improve, Overcome
-* Assume nothing, Question everything, Never stop improving
+* *Learn*, *Unlearn*, *Relearn*
+* *Adapt*, *Improve*, *Overcome*
+* *Assume nothing*, *Question everything*, *Never stop improving*
 
 == Les objectifs des StarTECH
 
@@ -27,32 +38,95 @@ Mais c'est quoi les StarTECH ?!?
 * Nous former en continu
 * Partager nos connaissances
 
-Et pour ce faire...
+// we use passthrough block to use native reveal.sj fragment class, out of list component, because not currently supported by asciidoctor-revealjs
+++++
+<p class="fragment">Et pour ce faire...</p>
+++++
 
 === Veille technologique
 
-Nous nous [RED]*réunissons régulièrement* afin de discuter de l'actualité, et des dernières nouveautés techniques.
+Nous nous *réunissons régulièrement* afin de discuter de l'actualité, et des dernières nouveautés techniques.
 
 === Débats techniques
 
-Nous aimons confronter nos idées, retours d'expérience, problèmes, sur des points techniques précis (systèmes de gestion du cache, choix du worflow Git, etc.).
+Nous aimons *débattre*, et confronter nos idées, retours d'expérience, problèmes rencontrés, etc. +
+Simple news, ou point technique très pointu, pas de tabou, nous prenons tout !
 
 === Formations
 
 Le meilleur moyen de s'assurer que l'on maîtrise bien un sujet, est d'être capable de bien l'expliquer ! +
-Et pour ce faire, nous créons et présentons régulièrement des formations (Agile, TDD, DevOps, Git, Java, etc.) aux autres Softeamiens icon:smile-o[]
+Et pour ce faire, nous *créons et présentons régulièrement des formations* (Agile, TDD, DevOps, Git, Java, etc.) aux autres Softeamiens icon:smile-o[role="orange"]
 
 === Présence en conférences, salons, MeetUps
 
-Devoxx, Paris JUG, ng-europe, Big Data Paris... +
+*Devoxx*, *Paris JUG*, *ng-europe*, *Big Data Paris*... +
 Pour suivre les dernières tendances et nouveautés, le mieux est souvent d'écouter ceux qui les créent ! +
-Et si cela peut se terminer devant un petit pot, c'est encore mieux icon:beer[]
+Et si cela peut se terminer devant un petit pot, c'est encore mieux icon:beer[role="orange"]
 
-== Nos emblèmes
+== Softeam aime les *passionnés* !
 
-image:StarTECH-Java-logo_crew.png[width=100,float="left"]
-image:StarTECH-Java-logo_crew_Adapt-tagline.png[width=100,float="left"]
-image:StarTECH-Java-logo_crew_Learn-tagline.png[width=100,float="left"]
-image:StarTECH-Java-logo_transparent-background.png[width=100,float="left"]
-image:StarTECH-Java-tagline-text-badge_silver-white-text.png[width=100,float="left"]
+Pour nous permettre d'*assouvir notre passion*, les moyens suivants ont été mis en place :
 
+=== StarPoints
+
+Votre participation (articles de blogs, présentation de formation, etc.) vous permet de cumuler des *StarPoints*. +
+Ces derniers peuvent ensuite être utilisés pour acquérir :
+
+[%step]
+* un bel ordinateur
+* les licences de vos outils préférés
+* payer votre place au salon de votre choix, et *vous donner les jours de congés allant avec*.
+* vous voulez la liste ? C'est https://intranet.softeam.fr/sites/default/files/upload/StarTech%20-%20bar%C3%A8me%20Starpoints%2020161001.png[ici] !
+** et si vous pensez à autre chose, n'hésitez pas à nous le dire icon:smile-o[role="orange"]
+
+=== Jour off
+
+Pas facile de geeker sur son temps de libre avec nos vies bien occupées. +
+Aussi, pour chaque *2h de formation*, ou *12@13* donné, Softeam vous permet de *sortir de mission 1/2 journée*.
+
+== L'Intranet de la communauté
+
+image::StarTECH-Java_Intranet.png[width=700,link="https://intranet.softeam.fr/communaute/13"]
+
+=== !
+
+Un seul lieu pour accéder à (presque) toutes nos ressources ! +
+https://intranet.softeam.fr/communaute/13
+
+[%step]
+* *articles de blogs*
+* *calendrier des évènements*
+* accès aux *supports de formations*
+* notre recensement des *conférences techniques* et autres *MeetUps*
+* la liste des toutes les *ressources et outils du groupe*
+* le suivi des *StarPoints*
+* et bien sûr... notre *trombinoscope* ! 
+
+== Nos *emblèmes*, à afficher partout !
+
+[cols="3*^"]
+|=== 
+| image:StarTECH-Java-logo_crew.png[width=150,link="images/StarTECH-Java-logo_crew.png"] 
+| image:StarTECH-Java-logo_crew_Adapt-tagline.png[width=150,link="images/StarTECH-Java-logo_crew_Adapt-tagline.png"] 
+| image:StarTECH-Java-logo_crew_Learn-tagline.png[width=150,link="images/StarTECH-Java-logo_crew_Learn-tagline.png"] 
+
+| image:StarTECH-Java-logo_transparent-background.png[width=150,link="images/StarTECH-Java-logo_transparent-background.png"] 
+| image:StarTECH-Java-tagline-text-badge_silver-white-text.png[width=150,link="images/StarTECH-Java-tagline-text-badge_silver-white-text.png"] 
+| 
+|=== 
+
+== Nous ne sommes pas les seuls !
+
+D'autres communauté existent :
+
+[%step]
+* https://intranet.softeam.fr/communaute/65[StarTECH Agile]
+* https://intranet.softeam.fr/communaute/14[StarTECH .Net]
+* Sans oublier notre super https://intranet.softeam.fr/communaute/64[English Academy]
+** (Inscrivez-vous donc aux challenges http://softeam.us12.list-manage.com/subscribe?u=5d30d132bde801dc4b5cedd64&id=cf3f1ca949[What??? Recordings] d'Erin icon:smile-o[role="orange"])
+
+== DONC, passionné et fier de l'être ?
+
+image:StarTECH-Java_we-want-you.png[width=400]
+
+Déclare-nous ta flamme à mailto:startech-java@softeam.fr?subject=Inscription%20au%20StarTECH%20Java&amp;body=Je%20souhaite%20rejoindre%20le%20StarTECH%20Java%20![StarTECH Java]
