@@ -4,5 +4,4 @@ Contains the slides to make known the Softeam Cadextan *StarTECHs*. +
 They can be http://ardemius.github.io/slides-startech/slides-starTECH.html[*viewed online here*], by using the *GitHub pages* of the project.
 
 They were built using http://asciidoctor.org/[*Asciidoctor*], and the backend https://github.com/asciidoctor/asciidoctor-reveal.js[*reveal.js*]. +
-To know how to generate them, have a look at https://github.com/Ardemius/asciidoctor-presentation/blob/master/asciidoctor-presentation.adoc#slides-rendering-with-revealjs[this section] of my presentation on those tools.
-
+To know how to generate them, have a look at https://github.com/Ardemius/asciidoctor-presentation#slides-rendering-with-revealjs[this section] of my presentation on those tools.
