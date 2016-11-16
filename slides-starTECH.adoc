@@ -10,7 +10,7 @@
 
 Mais c'est quoi le *StarTECH Java* ?!?
 
-== Le StarTECH Java sont les groupes de *passionnés* de Softeam Cadextan !
+== Le StarTECH Java regroupe les *passionnés* de l'univers Java (au sens très large) de Softeam Cadextan !
 
 == Les valeurs du StarTECH Java
 
@@ -79,7 +79,7 @@ Ces derniers peuvent ensuite être utilisés pour acquérir :
 * vous voulez la liste ? C'est https://intranet.softeam.fr/sites/default/files/upload/StarTech%20-%20bar%C3%A8me%20Starpoints%2020161001.png[ici] !
 ** et si vous pensez à autre chose, n'hésitez pas à nous le dire icon:smile-o[role="orange"]
 
-=== Jour off
+=== Jours off
 
 Pas facile de geeker sur son temps de libre avec nos vies bien occupées. +
 Aussi, pour chaque *2h de formation*, ou *12@13* donné, Softeam vous permet de *sortir de mission 1/2 journée*.
@@ -129,4 +129,6 @@ D'autres communauté existent :
 
 image:StarTECH-Java_we-want-you.png[width=400]
 
-Déclare-nous ta flamme à mailto:startech-java@softeam.fr?subject=Inscription%20au%20StarTECH%20Java&amp;body=Je%20souhaite%20rejoindre%20le%20StarTECH%20Java%20![StarTECH Java]
+Rejoins-nous ! +
+mailto:startech-java@softeam.fr?subject=Inscription%20au%20StarTECH%20Java%20!&amp;body=Java%20roxxe%20!%0AJe%20veux%20contribuer%2C%20et%20souhaite%20rejoindre%20le%20groupe.%0A%0AEl%C3%A9ments%20%C3%A0%20fournir%20pour%20le%20trombinoscope%20%3A%0ANom%20et%20pr%C3%A9nom%20%3A%20XXX%0ACourte%20description%20%3A%20qui%20je%20suis%2C%20ce%20que%20j'aime%2C%20les%20techno%20dont%20je%20suis%20fan%2C%20etc.%0A%0AJ'ai%20bien%20lu%20le%20manifeste%2C%20et%20suis%20en%20accord%20avec%20les%20valeurs%20qu'il%20d%C3%A9fend.%0A[Inscription au StarTECH Java]
+
