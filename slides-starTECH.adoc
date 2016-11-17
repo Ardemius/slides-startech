@@ -117,7 +117,7 @@ https://intranet.softeam.fr/communaute/13
 
 == Nous ne sommes pas les seuls !
 
-D'autres communauté existent :
+D'autres communautés existent :
 
 [%step]
 * https://intranet.softeam.fr/communaute/65[StarTECH Agile]
