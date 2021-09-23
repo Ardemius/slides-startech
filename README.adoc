@@ -1,6 +1,6 @@
 = StarTECH presentation slides
 
-Contains the slides to make known the Softeam Cadextan *StarTECHs*. +
+Contains the slides to make known the *StarTECH* technical community at Softeam. +
 They can be http://ardemius.github.io/slides-startech/slides-starTECH.html[*viewed online here*], by using the *GitHub pages* of the project.
 
 They were built using http://asciidoctor.org/[*Asciidoctor*], and the backend https://github.com/asciidoctor/asciidoctor-reveal.js[*reveal.js*]. +
