@@ -10,14 +10,3 @@
 .orange {
     color: #FF6A00;
 }
-
-/* we globally need a font a bit smaller */
-.reveal {
-  font-size: 38px;
-}
-
-/* and a title a bit smaller too */
-.reveal section.title h1 {
-  font-size: 2em;
-}
-
